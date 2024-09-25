@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c2d4a970e01eda4597e3e9843ebb808, type: 3}
+  m_Name: TwiceSoldierDialogueScene
+  m_EditorClassIdentifier: 
+  sceneActor: 3
+  sceneDialogues:
+  - {fileID: 11400000, guid: c2e19485163c32a45b43d49c8453600d, type: 2}
+  - {fileID: 11400000, guid: 2b9eee8f49896bd47a65a27b8755dc88, type: 2}
+  - {fileID: 11400000, guid: 692547c5adda4f1418fa147a5f0bf070, type: 2}
+  - {fileID: 11400000, guid: 012eaaee5609c5a4593a112ae4fa1228, type: 2}
+  - {fileID: 11400000, guid: de257927a356fff49ade5eadea30670a, type: 2}
+  - {fileID: 11400000, guid: 5170c7111f6f7204687d382201d5cec6, type: 2}
+  - {fileID: 11400000, guid: 700b95bd40fa1a04babc56cedccda21b, type: 2}
+  - {fileID: 11400000, guid: 911ecf7a0f9a66648b079b3b74111f34, type: 2}
+  - {fileID: 11400000, guid: 66e79e4d9a975a4448462415dba61e42, type: 2}
+  - {fileID: 11400000, guid: a06af49e64adb0949a76b0d3c61574cc, type: 2}
+  - {fileID: 11400000, guid: 0355f87caeb28324e9a7ec623547ee43, type: 2}
+  - {fileID: 11400000, guid: 977cfbb5a6d249d40891adc158e6af73, type: 2}
+  - {fileID: 11400000, guid: 0ed3c9dcde6215a44933cdea71eddb9a, type: 2}
+  - {fileID: 11400000, guid: 91de00c47d8c52a40934121415c50b51, type: 2}
+  - {fileID: 11400000, guid: 7cd75310d0b486d4c88fe1e14f50d1d1, type: 2}
+  - {fileID: 11400000, guid: 247072b5149fe3e44a8e492d6212649e, type: 2}
+  - {fileID: 11400000, guid: 88bd9cf190503594ea134098b915c0a8, type: 2}
+  - {fileID: 11400000, guid: 98fd993a3c9ab664fa1b376b93e5c21d, type: 2}
+  - {fileID: 11400000, guid: 08f4c0fb70303a84cbb77bf1b2c79883, type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eddd342595f92644e94b96aaba85612f, type: 3}
+  m_Name: WideExoAnt
+  m_EditorClassIdentifier: 
+  npcName: 7
+  npcSprite: {fileID: 0}
+  npcDialogue: {fileID: 11400000, guid: 9b09e476a8bce414b88b57287777f9a5, type: 2}
+  npcDialogueSpanish: {fileID: 11400000, guid: 9977c512dbe5d46409bf3db48036c2f9, type: 2}
+  npcDialogueCatala: {fileID: 11400000, guid: 3f4a5ebbb39c0bc40931b72a908e2c20, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83d8b3c763ba5cf4e89457405af4381a, type: 3}
+  m_Name: TwiceSoldierScene_Princess_3
+  m_EditorClassIdentifier: 
+  actorName: 1
+  dialogue: "\u201C\xA1Claro que no, no pueden ejecutarme ma\xF1ana!\u201D"
+  answers:
+  - {fileID: 11400000, guid: 7da4d060678c5184a8c553c20f54a279, type: 2}
+  - {fileID: 11400000, guid: 697125bc4a0eb7b469890d6412d9caa6, type: 2}
+  branchId: 

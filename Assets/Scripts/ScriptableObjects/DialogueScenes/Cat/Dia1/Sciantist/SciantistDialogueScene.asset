@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c2d4a970e01eda4597e3e9843ebb808, type: 3}
+  m_Name: SciantistDialogueScene
+  m_EditorClassIdentifier: 
+  sceneActor: 6
+  sceneDialogues:
+  - {fileID: 11400000, guid: 937cadc1f50a9b44cab1501f40bc44bf, type: 2}
+  - {fileID: 11400000, guid: 32ab323fac027b0489eb7e9d36419d5c, type: 2}
+  - {fileID: 11400000, guid: c98e9c337b510104e8311266994b8a93, type: 2}
+  - {fileID: 11400000, guid: e3b733ff1b8d01847b082661e15e37b3, type: 2}
+  - {fileID: 11400000, guid: c2acdbfa2fc40ee459a2dea10ddb93fe, type: 2}
+  - {fileID: 11400000, guid: 03b35b3ea9021a64eb4c0abe9fd15cea, type: 2}
+  - {fileID: 11400000, guid: 1b9e19aa0d61d494ba9331831a76a027, type: 2}
+  - {fileID: 11400000, guid: fbd9fcb564af88a4c84fbd8033b170ed, type: 2}
+  - {fileID: 11400000, guid: c2733bb78d66ac4438502bb9fb1ccda3, type: 2}
+  - {fileID: 11400000, guid: 8155a7bb297884846977f34dd1844582, type: 2}
+  - {fileID: 11400000, guid: 99449b7199ad0c1489e44d52610946ed, type: 2}
+  - {fileID: 11400000, guid: f4160a21687da1244b7aa456507fc90e, type: 2}
+  - {fileID: 11400000, guid: 1d0765a666d90144c88340eb47241fe7, type: 2}
+  - {fileID: 11400000, guid: e4cf7cfba7fc9924f855161125416118, type: 2}
+  - {fileID: 11400000, guid: ad689470d33a9bc44bc05c3a617dc3c5, type: 2}
+  - {fileID: 11400000, guid: e772bb1d355b190438b775c1f3f29e1a, type: 2}

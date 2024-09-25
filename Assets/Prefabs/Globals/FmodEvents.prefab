@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &339851370694975456
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 824835111519608996}
+  - component: {fileID: 7228154641442588459}
+  m_Layer: 0
+  m_Name: FmodEvents
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &824835111519608996
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 339851370694975456}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7228154641442588459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 339851370694975456}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1881179cc502bc43b9989d0d210c7a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <playMainTheme>k__BackingField:
+    Guid:
+      Data1: -1763374002
+      Data2: 1123024598
+      Data3: 182723499
+      Data4: 1006394657
+    Path: event:/main_theme
+  <playGameTheme>k__BackingField:
+    Guid:
+      Data1: 1364082758
+      Data2: 1162002201
+      Data3: -500362859
+      Data4: -1427742005
+    Path: event:/game_theme
+  <playFootstep>k__BackingField:
+    Guid:
+      Data1: 829625710
+      Data2: 1263962320
+      Data3: 1550037673
+      Data4: -1723399337
+    Path: event:/footsteps
+  <playClimbing>k__BackingField:
+    Guid:
+      Data1: 908393900
+      Data2: 1307146557
+      Data3: -1790768750
+      Data4: 995224884
+    Path: event:/Climb
+  <playCorona>k__BackingField:
+    Guid:
+      Data1: -1117595342
+      Data2: 1297249551
+      Data3: 100988815
+      Data4: 579249294
+    Path: event:/Corona
+  <playPrincessVoice>k__BackingField:
+    Guid:
+      Data1: -1606585922
+      Data2: 1290059078
+      Data3: 774172305
+      Data4: -1965796714
+    Path: event:/voz_princess
+  <playSciantistVoice>k__BackingField:
+    Guid:
+      Data1: 533345085
+      Data2: 1296332512
+      Data3: 1081935523
+      Data4: -976006264
+    Path: event:/voz_scientist
+  <playTwiceSoldierVoice>k__BackingField:
+    Guid:
+      Data1: -1237364777
+      Data2: 1335119864
+      Data3: -230679907
+      Data4: -1259463699
+    Path: event:/voz_twiceSoldier
+  <playHystericantVoice>k__BackingField:
+    Guid:
+      Data1: 1351758607
+      Data2: 1294761596
+      Data3: -572893005
+      Data4: -321670602
+    Path: event:/voz_hystericant
+  <playWideExoAntVoice>k__BackingField:
+    Guid:
+      Data1: -178263456
+      Data2: 1121040678
+      Data3: 1759784894
+      Data4: 880298659
+    Path: event:/voz_wideExo
+  <playUIAccept>k__BackingField:
+    Guid:
+      Data1: 457391192
+      Data2: 1111183039
+      Data3: 1113590697
+      Data4: 278740513
+    Path: event:/Ui_accept
+  <playUICancel>k__BackingField:
+    Guid:
+      Data1: -1348243739
+      Data2: 1100863254
+      Data3: -1247158082
+      Data4: 1329964090
+    Path: event:/Ui_Cancel

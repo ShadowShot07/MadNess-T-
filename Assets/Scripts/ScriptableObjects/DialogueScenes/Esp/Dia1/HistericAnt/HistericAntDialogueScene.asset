@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c2d4a970e01eda4597e3e9843ebb808, type: 3}
+  m_Name: HistericAntDialogueScene
+  m_EditorClassIdentifier: 
+  sceneActor: 4
+  sceneDialogues:
+  - {fileID: 11400000, guid: 2484f8797f250bb4ea620ecc443b9f9c, type: 2}
+  - {fileID: 11400000, guid: 83f9a1c6b30a7604f9c9961fb4c560fe, type: 2}
+  - {fileID: 11400000, guid: 3ea93c0a36bf92447b85e15d0e8d7b76, type: 2}
+  - {fileID: 11400000, guid: b7fcf6a13961e5f4cb77d15d85008a74, type: 2}
+  - {fileID: 11400000, guid: f0b581c075e78204e9c78f870840b11e, type: 2}
+  - {fileID: 11400000, guid: ac7d2d0d78ed9e149a1c81744db31685, type: 2}
+  - {fileID: 11400000, guid: 4e6905d43441ac24497ee4d66f98890f, type: 2}
+  - {fileID: 11400000, guid: bd1788e82b7d17544a61f2fe8c189342, type: 2}
+  - {fileID: 11400000, guid: da948e581afe83b46a705d3e007a6a4a, type: 2}
+  - {fileID: 11400000, guid: bb2647d9ce57535499d4cef6acd52504, type: 2}
+  - {fileID: 11400000, guid: 5f61d6a7b3777ec4fa37d2414ec579a2, type: 2}
+  - {fileID: 11400000, guid: 2b97e50e1210fdf499cdc43db92aa87c, type: 2}
+  - {fileID: 11400000, guid: 602e2a58e07602642b22cb3689e191be, type: 2}
+  - {fileID: 11400000, guid: be7d5af9d4f50ef4fa89da94eb6c9884, type: 2}
+  - {fileID: 11400000, guid: 64c25d13e283da24c934a4647f62ee57, type: 2}
+  - {fileID: 11400000, guid: 37e82a18fd286d740b4dfdd9c5b64e9e, type: 2}
+  - {fileID: 11400000, guid: 4446adba1b8f2214dbbc78486848478b, type: 2}
+  - {fileID: 11400000, guid: 4a33a46e5d4f72a45900cf4f1d6c70b9, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c2d4a970e01eda4597e3e9843ebb808, type: 3}
+  m_Name: Day1FinaleDialogueScene
+  m_EditorClassIdentifier: 
+  sceneActor: 1
+  sceneDialogues:
+  - {fileID: 11400000, guid: 8af3825612e94f54a9c4bf711cab5832, type: 2}
+  - {fileID: 11400000, guid: ed69b3accbbcef34d9ed869544a9bfe7, type: 2}
+  - {fileID: 11400000, guid: c0a306794ff8f484990f845e41b2a503, type: 2}
+  - {fileID: 11400000, guid: 5b36735043e1b4b4e93f521d3dcc0e8e, type: 2}
+  - {fileID: 11400000, guid: 858214ab44c9ad14d95d4226800c694e, type: 2}
+  - {fileID: 11400000, guid: 92e0baadebe96544fabc8b2952044175, type: 2}

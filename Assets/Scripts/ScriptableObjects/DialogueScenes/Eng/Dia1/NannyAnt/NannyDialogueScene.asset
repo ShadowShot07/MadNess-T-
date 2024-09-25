@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c2d4a970e01eda4597e3e9843ebb808, type: 3}
+  m_Name: NannyDialogueScene
+  m_EditorClassIdentifier: 
+  sceneActor: 5
+  sceneDialogues:
+  - {fileID: 11400000, guid: 71d369b2e8ae6224a90bf98be4f626e8, type: 2}
+  - {fileID: 11400000, guid: fc2b001443568514698322290d3eb288, type: 2}
+  - {fileID: 11400000, guid: 9472c40e68e3cad479a569fb2b19e617, type: 2}
+  - {fileID: 11400000, guid: 18034c0603d1dc84cbf8f87eddd54f6d, type: 2}
+  - {fileID: 11400000, guid: 017267ac3a213e64f8038f4cf89d1462, type: 2}
+  - {fileID: 11400000, guid: 483212d4d68173e44acccd05c87b4756, type: 2}
+  - {fileID: 11400000, guid: 62c1115642533d046a52798901449378, type: 2}
+  - {fileID: 11400000, guid: 1995336e9821d8d4ba51ceafdf39fd14, type: 2}
+  - {fileID: 11400000, guid: de5c61682bd91e34a98c0d89086b0e37, type: 2}
+  - {fileID: 11400000, guid: 95d90682cf2639c47b391012b525e581, type: 2}

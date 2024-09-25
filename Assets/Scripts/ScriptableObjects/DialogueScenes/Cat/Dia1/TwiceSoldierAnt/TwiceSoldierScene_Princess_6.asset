@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83d8b3c763ba5cf4e89457405af4381a, type: 3}
+  m_Name: TwiceSoldierScene_Princess_6
+  m_EditorClassIdentifier: 
+  actorName: 1
+  dialogue: "\u201CLlavors parlar\xE9. Crec que la meva mare no \xE9s apta per a
+    aquest regnat i que alg\xFA l'hauria de substituir. Em veig preparada per a aquesta
+    missi\xF3 i la seva ajuda seria de gran rellev\xE0ncia per a \r\nmi...\u201C "
+  answers:
+  - {fileID: 11400000, guid: 649673e20ce9e174fa11bb08392fcc4e, type: 2}
+  - {fileID: 11400000, guid: 83eef46d3a5082241b9aa1bcee8bc77a, type: 2}
+  branchId: 
